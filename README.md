@@ -4,10 +4,10 @@ This project aims to provide insights on bike sales data to understand the distr
 Welcome to the Bike Sales data analysis case study as a part of the Portfolio Project of DataAnalyzer-Pooja. 
 
 # About Dataset
-This dataset has details of 1001 bike buyers from different backgrounds and whether or not they buy a bike. This data can be helpful to business owners in understanding the kind of customers who buy bikes.
+This dataset has details of 1001 customers from different backgrounds and whether or not they buy a bike. This data can be helpful to business owners in understanding the kind of customers who buy bikes.
 
 # Business Task
-Use this dataset for data cleaning, exploration, and visualization to understand the potential bike buyers to whom to market.
+Use this dataset for data cleaning, exploration and visualization to understand the potential bike buyers to whom to market.
 
 # Deliverables
 The project includes the following:-
