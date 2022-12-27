@@ -15,7 +15,7 @@ The project includes the following:-
 - Bike sales analysis [dashboard](https://github.com/DataAnalyzer-Pooja/Bike-Sales-Case-Study/blob/main/Bike%20Sales%20Analysis.xlsx). 
 
 # Findings
-- Middle aged cutomers (31-54 years) buy the most bikes followed by old aged customers (54 years or above) and finally adolescents (30 years or below).
+- Middle aged customers (31-54 years) buy the most bikes followed by old aged customers (54 years or above) and finally adolescents (30 years or below).
 - Customers with shorter commutes (0-1 miles) buy the most bikes, while those with longer commutes (more than 10 miles)  buy the least.
 - Customers in North America buy the most bikes.
 - Married male customers buy the most bikes. 
