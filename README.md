@@ -22,4 +22,6 @@ The project includes the following:-
 - Customers with a bachelor's degree buy the most bikes, while those with a partial high school degree buy the least. 
 
 I hope this project helps you understand the bike sales distribution. If you have any questions or suggestions, please don't hesitate to reach out.
+- [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
+- [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
 
