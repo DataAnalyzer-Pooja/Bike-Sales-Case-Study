@@ -12,7 +12,7 @@ Use this dataset for data cleaning, exploration and visualization to understand 
 # Deliverables
 The project includes the following:-
 - Excel project [dataset](https://github.com/DataAnalyzer-Pooja/Bike-Sales-Case-Study/blob/main/Excel%20Project%20Dataset.xlsx). 
-- Bike sales analysis [dashboard](https://github.com/DataAnalyzer-Pooja/Bike-Sales-Case-Study/blob/main/Bike%20Sales%20Analysis.xlsx). 
+- Bike sales analysis [dashboard](https://github.com/DataAnalyzer-Pooja/Bike-Sales-Case-Study/blob/main/Bike%20Sales%20Analysis%20Dashboard.xlsx). 
 
 # Findings
 - Middle aged customers (31-54 years) buy the most bikes followed by old aged customers (54 years or above) and finally adolescents (30 years or below).
